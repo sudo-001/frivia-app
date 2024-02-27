@@ -1,16 +1,8 @@
-# friviaapp
+# frivia-app
 
-A new Flutter project.
+# Description
+Animdo est une application flutter pour découvrir et comprendre les animations sur flutter 
 
-## Getting Started
+# Démo
+[Capture vidéo du 27-02-2024 15:10:28.webm](https://github.com/sudo-001/frivia-app/assets/81199537/0a254aab-30b8-478c-bd38-bcc589c86b9a)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
